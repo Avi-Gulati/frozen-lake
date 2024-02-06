@@ -1,5 +1,7 @@
 # Frozen Lake
 
+![frozen_lake](https://github.com/Avi-Gulati/frozen-lake/assets/78887061/9dd2090b-5e66-4235-bfca-65cddffe2fca)
+
 This repository contains implementations for reinforcement learning strategies and neural network models for digit classification. The code also demonstrates the application of these methods to solve problems such as navigating the Frozen Lake environment.
 
 ## Overview
